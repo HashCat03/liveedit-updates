@@ -1,0 +1,4 @@
+{
+    "signed": "{\"product\":\"livedit\",\"version\":\"0.8.0\",\"released\":\"2026-10-08\",\"url\":\"livedit-0.8.0.enc\",\"sha256\":\"000bee0b98e64f4a4d2f323d9d3476b98725969b68e5e13d3d556d953a9a5162\",\"size\":199286,\"encryption\":{\"alg\":\"xchacha20poly1305-ietf\",\"key_id\":\"2c62a6b210f6bb7e\",\"zip_sha256\":\"722734c67f939efc689126822abbff19edf77a886158edb8d538752ef1d32ed2\",\"zip_size\":199246},\"min_php\":\"8.4\",\"extensions\":[\"dom\",\"gd\",\"mbstring\",\"sodium\",\"zip\"],\"notes\":\"Termine mit Wiederholungen, Listen als Bausteine, Bildunterschriften, Bilder skalieren und ausrichten\",\"revoked\":[],\"expires\":\"2027-10-08\"}",
+    "signature": "M9Cm1X9KMKqVgRR6uMYIQGAehdCmg+BUooheiOtL/k4OSPiLxcCH/lcWtUACUzYcF7wdVNSJpouQY5QbzfkNBw=="
+}
